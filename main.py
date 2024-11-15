@@ -5,7 +5,6 @@ from src.logger import logger
 from src.plugin_manager import PluginManager
 from src.plugins.power_plugin import PowerPlugin  # Example of a plugin to calculate power
 
-
 def run():
     calculator = Calculator()
     history_facade = HistoryFacade()
