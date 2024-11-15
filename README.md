@@ -156,14 +156,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 - Thank you to the instructors and peers for feedback and support during this project.
 
-
-man jogiya
-heeriye slowed +reverb
-tere dil ke shehar mai
-jara jara
-dhup lagdi
-sath de tu mla
-tere bin sanu sohneya
-
-
-
