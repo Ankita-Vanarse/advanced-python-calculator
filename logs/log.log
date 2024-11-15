@@ -1,0 +1,10 @@
+2024-10-23 13:55:13,838 - INFO - Result of add with value [3.0, 4.0] is 7.0
+2024-10-23 13:55:41,753 - INFO - Result of multiply with value [2.0, 3.0, 4.0] is 24.0
+2024-10-23 13:56:04,315 - INFO - Result of subtract with value [12.0, 6.0] is 6.0
+2024-10-23 13:56:21,388 - INFO - History loaded successfully
+2024-10-23 13:56:37,714 - INFO - History cleared successfully
+2024-11-15 15:45:13,005 - INFO - Result of add with value [29.0, 3.0] is 32.0
+2024-11-15 15:45:33,196 - INFO - Result of subtract with value [23.0, 3.0] is 20.0
+2024-11-15 15:45:50,813 - INFO - History loaded successfully
+2024-11-15 15:46:04,773 - INFO - History cleared successfully
+2024-11-15 15:46:12,220 - INFO - No data found when history loaded...
